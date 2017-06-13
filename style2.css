@@ -1,0 +1,68 @@
+body{
+    /*background image*/
+    background-image: url(yarn.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    background-color: #ccc;
+    color:white;
+    font-family: 'Roboto Condensed', 'Hevetica', sans-serif;
+    margin:0;
+}
+a{
+    color:#50002e;
+    text-decoration:underline;
+}
+a:hover{
+    color: black
+}
+
+#container{
+    background-color:#123c60
+        display: block;
+}
+h1{
+font-family:'Montserrat', sans-serrf;
+}
+img{
+    display: block;
+    postition:relative;
+    width:50%;
+}
+image-1{
+    left:100px;
+}
+image-2{
+    left:500px
+        padding-top:20px;
+    margin-top: 10px;
+}
+
+.paragraph-1{
+    width:75%;
+}
+header{
+    
+}
+header img{
+    max-height: 200px;
+    width:100%
+}
+header img{
+    max-height:200px;
+    width:100%;
+}
+header h1{
+    color:red;
+}
+/*unordered list*/
+ul{
+    list-style-type:none;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
+li:hover{
+    background-color: #430034;
+}
+}
